@@ -66,5 +66,10 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>
+		Atlas Maps uses your location to show where you are
+		and help you navigate.
+	</string>
 </dict>
 </plist>
